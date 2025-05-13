@@ -10,9 +10,8 @@
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center"> 
-<a href="https://www.facebook.com/hoanggioi.2803/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="levuongyt" height="40" width="80" /></a>
+<a href="https://www.facebook.com/le.m.vuong.549?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="levuongyt" height="40" width="80" /></a>
 <a href="https://github.com/levuongyt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="levuongyt" height="40" width="80" /></a>&emsp;
-<a href="https://levuongyt.com" target="_blank"><img align="center" src="https://levuongyt.com/favicon.ico" alt="levuongyt" height="40" width="40" /></a>
 </p>
 <br />
 <h3 align="center">🛠 Technologies and Tools 🛠</h3>
