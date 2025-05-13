@@ -1,6 +1,6 @@
 <!-- Lê Minh Vương -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=8000&color=DA2CF7&center=true&width=1000&height=150&lines=Hello+👋+!+I'm+Ho%C3%A0ng+V%C4%83n+Gi%E1%BB%8Fi.;I%E2%80%99m+from+Viet+Nam.;I%E2%80%99m+a+junior+at+Posts+and+Telecommunications+Institute+of+Technology.;My+major+is+Electrical+and+Electronic+Engineering+Technology.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+%2C+I'm+Le+Minh+Vuong;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 ![LÊ MINH VƯƠNG](./animated.svg)
 
 <p align="center"> 
