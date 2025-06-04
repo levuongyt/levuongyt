@@ -14,42 +14,10 @@
 <a href="https://github.com/levuongyt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="levuongyt" height="40" width="80" /></a>&emsp;
 </p>
 <br />
-<h3 align="center">🛠 Technologies and Tools 🛠</h3>
+
 <br />
 
-<div align="center">
-	<table>
-		<tr>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></td>
-			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="apple logo" /></td>
-			<td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50"/></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=bash" alt="bash logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="cmake logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" /></td>
-		</tr>
-	</table>
-</div>
 
-<div align="center">
-	<table>
-		<tr>
-			<td><img width="50" src="https://skillicons.dev/icons?i=github" alt="github logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="gcc logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" /></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" /></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=django" alt="django logo"/></td>
-			<td><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi logo" /></td>
-			<td><img width="50" src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo"  /></td>
-			<td><img width="50" src="https://skillicons.dev/icons?i=neovim" alt="neovim logo" /></td>
-		</tr>
-	</table>
-</div>
 
 <h3 align="center">🔥 GitHub Stats 🔥</h3>
 <br />
